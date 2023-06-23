@@ -1,0 +1,25 @@
+.code-button
+{
+    width: 100px;
+    height: 40px;
+    margin-top: 15px;
+    border: 1px solid rgb(177, 173, 173);
+    color:rgb(107, 187, 240);
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 15px;
+}
+.icon
+{
+    float: left;
+    display: flex;
+    position: absolute;
+    left: 20px;
+}
+.div{
+    background-color: rgb(219,234,254);
+}
+.code-text{
+    font-size: 15px;
+    margin-left: 22px;
+}

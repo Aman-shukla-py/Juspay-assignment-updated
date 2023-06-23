@@ -1,0 +1,30 @@
+.run-button
+{
+    width: 100px;
+    height: 40px;
+    border: 1px solid rgb(177, 173, 173);
+    color:rgb(107, 187, 240);
+    background-color: white;
+}
+
+
+.go-text{
+    font-size:17px;
+    margin-left:0px;
+}
+.goIcon{
+    width: 20px;
+    height: 20px;
+    float: left;
+    display: flex;
+    position: absolute;
+    left: 10px;
+}
+.div{
+    display: flex;
+    flex-direction: row;
+}
+.go-button{
+    position: absolute;
+    right: 0px;
+}

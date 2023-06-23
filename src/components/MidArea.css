@@ -1,0 +1,37 @@
+.midArea
+{
+    border: 5px solid black;
+    width: 900px;
+    height: 900px;
+}
+
+.playground
+{
+    border: 5px solid black;
+    width: 935px;
+    height: 900px !important;;
+    position: relative;
+    background-color: #6d0e0e;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.playgroundBtn
+{
+    position: relative;
+    width: 100px;
+    height: 60px;
+    background-color: #6d0e0e;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 2px;
+    color: rgb(19, 16, 16);
+    font-size: 16px;            
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

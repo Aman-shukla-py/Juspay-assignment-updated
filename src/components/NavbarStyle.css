@@ -1,0 +1,111 @@
+.navbar{
+    box-sizing: border-box;
+    height: 3rem;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.75rem;
+    font-weight: bold;
+    background-color: hsla(215, 100%, 65%, 1);;
+    color: hsla(0, 100%, 100%, 1);
+    position: relative;
+    display: flex;
+}
+
+.Navbar-button-file{
+   display: flex;
+   margin: auto;
+   height: 48px;
+   width: wrap-content;
+   font-weight: bold;
+   font-size: 0.90rem;
+   text-align: center;
+   position: absolute;
+   top: 0px;
+   left: 100px;
+   color: white;
+   padding: 10px 0px 0px 5px;
+}
+
+.Navbar-button-edit{
+    display: flex;
+    margin: auto;
+    height: 48px;
+    width: wrap-content;
+    font-weight: bold;
+    font-size: 0.90rem;
+    text-align: center;
+    position: absolute;
+    top: 0px;
+    left:140px;
+    color: white;
+    padding: 10px 0px 0px 5px;
+ }
+
+ .Navbar-button-tut{
+    display: flex;
+    margin: auto;
+    height: 48px;
+    width: wrap-content;
+    font-weight: bold;
+    font-size: 0.90rem;
+    text-align: center;
+    position: absolute;
+    top: 0px;
+    left:180px;
+    color: white;
+    padding: 10px 0px 0px 5px;
+ }
+
+ .Navbar-button-join{
+    display: flex;
+    margin: auto;
+    height: 48px;
+    width: 93px;
+    font-weight: bold;
+    font-size: 0.90rem;
+    text-align: center;
+    position: absolute;
+    right: 150px;
+    color: white;
+    padding: 10px 0px 0px 5px;
+ }
+
+ .Navbar-button-signin{
+    display: flex;
+    margin: auto;
+    height: 48px;
+    width: 108px;
+    font-weight: bold;
+    font-size: 0.90rem;
+    text-align: center;
+    position: absolute;
+    right: 30px;
+    color: white;
+    padding: 10px 0px 0px 5px;
+ }
+
+
+ .Navbar-button-file:hover{
+    background-color: rgb(144, 189, 252, 0.25);
+    color:rgb(56, 126, 218);
+    cursor: pointer;
+}
+.Navbar-button-edit:hover{
+    background-color: rgb(144, 189, 252, 0.25);
+    color:rgb(56, 126, 218);
+    cursor: pointer;
+}
+.Navbar-button-tut:hover{
+    background-color: rgb(144, 189, 252, 0.25);
+    color:rgb(56, 126, 218);
+    cursor: pointer;
+}
+.Navbar-button-join:hover{
+    background-color: rgb(144, 189, 252, 0.25);
+    color:rgb(56, 126, 218);
+    cursor: pointer;
+}
+.Navbar-button-signin:hover{
+    background-color: rgb(144, 189, 252, 0.25);
+    color:rgb(56, 126, 218);
+    cursor: pointer;
+}
